@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 knowledge_graphs/
 *.txt
+!requirements.txt
